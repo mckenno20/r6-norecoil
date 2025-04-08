@@ -1,6 +1,6 @@
 local recoilX = 0                            -- right / left | pos / neg
-local recoilY = 0
-local disable = false
+local recoilY = 18
+local disable = true
 local key = "capslock"
 ----------- DEFENDING -----------
 -- Rook(PISTOL): (1,1)
